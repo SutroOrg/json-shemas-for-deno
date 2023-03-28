@@ -1,4 +1,4 @@
-const schema = {
+export const schema = {
   $schema: "https://json-schema.org/draft/2019-09/schema",
   $id: "https://json-schema.org/draft/2019-09/schema",
   $vocabulary: {
