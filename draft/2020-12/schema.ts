@@ -1,4 +1,4 @@
-export default {
+const schema = {
   $schema: "https://json-schema.org/draft/2020-12/schema",
   $id: "https://json-schema.org/draft/2020-12/schema",
   $vocabulary: {
@@ -58,3 +58,4 @@ export default {
     },
   },
 };
+export default schema;
